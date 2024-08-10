@@ -1,3 +1,7 @@
 Texte
 Oii teste
 Novo teste para o arquiv
+
+Teste
+
+Nova linha local
